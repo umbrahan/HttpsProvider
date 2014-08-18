@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://app.handx2.com/downloads/com.handx2.testinhouse_v1.0.2.0814.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.handx2.testinhouse</string>
+				<key>bundle-version</key>
+				<string>1.0.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Handx2</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
